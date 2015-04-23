@@ -1,6 +1,8 @@
 # SGM
 SGM is a Game Manager to manage easly every features that you may need in a game developement.
 
+Actual version : **0.8**
+
 ##Features
 You can manage : 
 * User : Load and save User easly. Automaticaly saved enable/disable data and stats.
@@ -11,6 +13,5 @@ You can manage :
 Here you can find the diagram of Android part of SGM.
 
 ![alt tag](ANDROID/D_Organization.jpg)
-Actual version : **0.8**
 
 *Be carefull, yellow title are elements Work In Progress and may change in a futur version*
