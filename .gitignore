@@ -1,0 +1,13 @@
+ANDROID/.idea/gradle.xml
+ANDROID/app/build.gradle
+ANDROID/app/pom.xml
+ANDROID/app/proguard-rules.pro
+ANDROID/build.gradle
+ANDROID/build/intermediates/dex-cache/cache.xml
+ANDROID/build/intermediates/model_data.bin
+ANDROID/gradle.properties
+ANDROID/gradle/wrapper/gradle-wrapper.jar
+ANDROID/gradle/wrapper/gradle-wrapper.properties
+ANDROID/gradlew
+ANDROID/gradlew.bat
+ANDROID/settings.gradle
